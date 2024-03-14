@@ -21,6 +21,6 @@ That is composable confidence.
 On our GitHub you will find a collection of software, tools, and extensions that we affectionately refer to as Aries Labs. These projects are offered as open-source and specific licensing information can be found inside each repository. If you would like help in implementing any of these projects, making modifications, or any aspect of your composable implementation please reach out to us directly. [ariessolutions.io/contact-aries/](https://www.ariessolutions.io/contact-aries/)
 
 <p align="center">
-  <img src="assets/Labs-Animated.svg" style="max-width:400px;" />
+  <img src="https://raw.githubusercontent.com/ariessolutionsio/.github/main/profile/assets/Labs-Animated.svg" width="400px" style="max-width:400px;" />
 </p>
 
